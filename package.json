@@ -1,0 +1,22 @@
+{
+  "name": "d3-line-chart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@vx/event": "^0.0.165",
+    "@vx/marker": "^0.0.165",
+    "@vx/mock-data": "^0.0.165",
+    "@vx/scale": "^0.0.165",
+    "@vx/shape": "^0.0.165",
+    "d3-array": "^1.2.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
