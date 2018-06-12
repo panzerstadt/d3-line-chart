@@ -4,11 +4,14 @@
   "private": true,
   "dependencies": {
     "@vx/event": "^0.0.165",
-    "@vx/marker": "^0.0.165",
+    "@vx/gradient": "^0.0.165",
+    "@vx/grid": "^0.0.165",
     "@vx/mock-data": "^0.0.165",
     "@vx/scale": "^0.0.165",
     "@vx/shape": "^0.0.165",
+    "@vx/tooltip": "^0.0.165",
     "d3-array": "^1.2.1",
+    "d3-time-format": "^2.1.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
